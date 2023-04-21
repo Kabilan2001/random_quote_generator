@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+  }
+  .incre{
+    color:rgb(43, 2, 35);
+    font-size:50px;
+    height:200px;
+    width:250px;
+    background-color: rgb(181, 153, 28);
+  }
+  .num{
+    font-size:50px;
+  }
